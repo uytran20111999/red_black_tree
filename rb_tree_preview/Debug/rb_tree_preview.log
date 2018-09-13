@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\uytra\desktop\do an 2 ktlt\rb_tree_preview\rb_tree_preview\source.cpp(149): warning C4553: '==': operator has no effect; did you intend '='?
+  rb_tree_preview.vcxproj -> C:\Users\uytra\Desktop\do an 2 ktlt\rb_tree_preview\Debug\rb_tree_preview.exe
+  rb_tree_preview.vcxproj -> C:\Users\uytra\Desktop\do an 2 ktlt\rb_tree_preview\Debug\rb_tree_preview.pdb (Full PDB)
